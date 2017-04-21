@@ -1,2 +1,3 @@
-# UnderConstruction
-Personal platform for content creation
+# Exercises
+
+Various JS Exercises completed to comprehend concepts
